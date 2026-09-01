@@ -1,0 +1,9 @@
+# CANCELLATION POLICY DOCUMENT
+
+Section 1: Customer-Initiated Cancellation
+- Orders cancelled before shipment or fulfillment are entitled to a 100% full refund.
+- Refunds for cancelled orders are queued immediately upon cancellation confirmation.
+- If the refund status is "PENDING" for more than 5 business days post-cancellation, manual intervention by support team is required.
+
+Section 2: Merchant-Initiated Cancellation
+- If an order is cancelled by the merchant due to stock unavailability or system error, a 100% full refund + compensation coupon is issued automatically.

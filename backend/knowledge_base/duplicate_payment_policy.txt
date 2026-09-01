@@ -1,0 +1,9 @@
+# DUPLICATE PAYMENT POLICY DOCUMENT
+
+Section 1: Duplicate Charges Detection
+- When multiple identical transaction amounts are charged to a customer within a 60-minute window for a single order ID, the system flags the secondary charge as a duplicate.
+- Duplicate charges are eligible for immediate automated reversal to the original payment source.
+
+Section 2: Verification Protocol
+- Automated dispute AI cross-references reference IDs and timestamp gaps.
+- Confirmed duplicate payments are refunded within 24 hours without penalty.

@@ -1,0 +1,10 @@
+# PAYMENT FAILURE POLICY DOCUMENT
+
+Section 1: Technical Payment Failures
+- When a transaction status shows FAILED in the system, no money should be debited from the customer's account.
+- If money was debited during a transaction marked FAILED by the payment gateway, it is classified as an "In-Flight Auto-Reversal Delay".
+- Banking networks automatically reverse such debits within 24 to 72 hours without requiring manual intervention.
+
+Section 2: System Timeouts & Retries
+- System timeouts during checkout may result in temporary authorization holds.
+- These holds are released automatically by the issuing bank within 3 business days if no charge confirmation is sent.

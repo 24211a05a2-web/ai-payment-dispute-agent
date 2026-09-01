@@ -1,0 +1,14 @@
+# REFUND POLICY DOCUMENT
+
+Section 1: Order Failures & Payment Deductions
+- If a customer's payment status is SUCCESS but the associated order status is FAILED or CANCELLED, the customer is eligible for a full 100% refund.
+- Automatic refunds are processed within 24 to 48 hours to the original payment method.
+- If the payment was deducted and the order failed, refund eligibility is AUTOMATICALLY APPROVED.
+
+Section 2: Processing Timelines
+- Standard banking refund timeline: 3-5 business days for Credit/Debit Cards, 24-48 hours for UPI and Netbanking.
+- Instant wallet refunds are credited immediately.
+
+Section 3: Partial & Conditional Refunds
+- Partial refunds apply if items are missing from an order.
+- Non-refundable convenience or service fees may apply unless the failure was caused by system error.

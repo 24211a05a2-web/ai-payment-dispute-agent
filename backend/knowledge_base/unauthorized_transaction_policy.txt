@@ -1,0 +1,11 @@
+# UNAUTHORIZED TRANSACTION & FRAUD POLICY DOCUMENT
+
+Section 1: Mandatory Escalation & Freeze Protocol
+- ANY complaint reporting unrecognized charges, suspected fraudulent activity, stolen credentials, or unauthorized transactions MUST BE ESCALATED IMMEDIATELY TO HUMAN REVIEW.
+- AI automated systems MUST NOT automatically issue refunds for unauthorized transaction claims without human agent verification and security audit.
+
+Section 2: Customer Protection & Dispute Freeze
+- Upon filing an unauthorized transaction report:
+  1. The affected transaction is placed on security freeze.
+  2. The account protection team investigates device fingerprinting, IP logs, and OTP records.
+  3. Resolution timeline for fraud investigation: 3 to 7 business days.

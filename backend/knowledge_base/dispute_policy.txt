@@ -1,0 +1,11 @@
+# GENERAL DISPUTE RESOLUTION POLICY DOCUMENT
+
+Section 1: AI Dispute Handling Guidelines
+- Disputes are processed through automated policy retrieval and database cross-verification.
+- High confidence decisions (>= 80%) with clear database evidence (e.g. Payment SUCCESS + Order FAILED) are resolved automatically.
+- Uncertain, ambiguous, missing transaction, or high-value cases are routed to Human Review (Status: ESCALATED / UNDER_REVIEW).
+
+Section 2: Ticket SLAs and Tracking
+- Every dispute filed receives a unique Ticket ID (e.g., DSP-10025).
+- Automated resolutions update status instantly.
+- Human review cases are attended within 24 hours.
