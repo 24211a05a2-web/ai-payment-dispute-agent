@@ -1,5 +1,10 @@
-# DisputeAI — AI Payment Dispute Resolution Agent
 
+# DisputeAI — AI Payment Dispute Resolution Agent
+# AI Payment Dispute Resolution Agent
+
+## 🚀 Live Demo
+
+[Open AI Payment Dispute Agent](https://ai-payment-dispute-agent.onrender.com)
 An AI-powered payment dispute resolution assistant built for customer support and fintech platforms. It automatically analyzes customer complaints, cross-references transaction and order history in an SQLite database, retrieves relevant payment and refund policies using RAG, determines refund eligibility, recommends automated resolutions, creates dispute tickets, and escalates high-risk cases to human support agents.
 
 ---
