@@ -52,7 +52,14 @@ def health_check():
 def read_root():
     index_path = os.path.join(FRONTEND_DIR, "index.html")
     if os.path.exists(index_path):
-        return FileResponse(index_path)
+        return FileResponse(
+            index_path,
+            headers={
+                "Cache-Control": "no-cache, no-store, must-revalidate",
+                "Pragma": "no-cache",
+                "Expires": "0"
+            }
+        )
     return {"app": "DisputeAI Engine", "status": "Online", "docs": "/docs"}
 
 if os.path.exists(FRONTEND_DIR):
